@@ -1,2 +1,3 @@
-# SWC-ML-Case
-Science Wave Club Machine Learning Case
+# ML-Study
+
+A study covers several machine learning techniques
